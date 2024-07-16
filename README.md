@@ -12,7 +12,7 @@ example :
 	  HTTPClient http;
 
 
-	  String host = "http://192.168.31.51:3000/api/esp/";
+	  String host = "http://ip:port/api/; // example : http://192.168.1.1:3000/api/dashboard
    
 	  ESP8266HTTPUpdateIncludeHeader ESP8266HTTPUpdate;
    
